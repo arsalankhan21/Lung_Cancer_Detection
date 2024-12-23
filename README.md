@@ -104,13 +104,6 @@ An ensemble of VGG16, ResNet50, and InceptionV3 is implemented to combine the st
 
 ---
 
-## **Video Demonstration**  
-Click the link below to download and view the video demonstration:  
-
-[Download Video Demonstration](media/demo.mp4)
-
----
-
 ## **Conclusion**  
 This project successfully implemented a CNN-based tool for NSCLC detection using CT scans. By combining pre-trained models in an ensemble approach, the system improved accuracy and demonstrated potential as a diagnostic aid for radiologists. Future improvements will focus on addressing class imbalance and incorporating additional data to enhance performance.
 
