@@ -104,6 +104,13 @@ An ensemble of VGG16, ResNet50, and InceptionV3 is implemented to combine the st
 
 ---
 
+## **Video Demonstration**  
+![Lung Cancer Detection Demo](ezgif.com-video-to-gif-converter%20(1).gif)
+
+The above GIF demonstrates the Lung Cancer Detection Tool in action, showcasing key features such as CT scan input, prediction results, and classification accuracy.
+
+---
+
 ## **Conclusion**  
 This project successfully implemented a CNN-based tool for NSCLC detection using CT scans. By combining pre-trained models in an ensemble approach, the system improved accuracy and demonstrated potential as a diagnostic aid for radiologists. Future improvements will focus on addressing class imbalance and incorporating additional data to enhance performance.
 
@@ -116,13 +123,4 @@ This project successfully implemented a CNN-based tool for NSCLC detection using
 
 ---
 
-### **Notes**  
-To upload your video demonstration:  
-1. **Upload Video to YouTube**:  
-   - Set the visibility to "Public" or "Unlisted."  
-2. **Embed the YouTube Link**:  
-   - Replace `YourVideoID` in the video URL and thumbnail with the YouTube video ID.  
-
-Example YouTube link:  
-```markdown
-[![Watch the video](https://img.youtube.com/vi/YourVideoID/0.jpg)](https://www.youtube.com/watch?v=YourVideoID)
+Let me know if you need further adjustments or enhancements! 😊
